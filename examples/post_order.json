@@ -1,0 +1,11 @@
+{
+  "orderNo": "SO-2026-0004",
+  "orderDate": "2026-11-08T00:00:00",
+  "status": "NEW",
+  "note": "Medical workstations - created via REST",
+  "customer": { "customerId": 4 },
+  "lines": [
+    { "quantity": 4, "unitPrice": 1249, "product": { "productId": 1 } },
+    { "quantity": 4, "unitPrice": 59.9, "product": { "productId": 6 } }
+  ]
+}
